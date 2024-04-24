@@ -251,24 +251,5 @@
     }
   ],
   "orders": [],
-  "users": [
-    {
-      "email": "test@test.com",
-      "password": "$2a$10$.HNFEAlH0JX9EmjR.5lpD.yaQMS0IM8UAxTJYYfp5xWlbSW/Y3oHm",
-      "name": "test",
-      "id": 2
-    },
-    {
-      "email": "krat@test.com",
-      "password": "$2a$10$uEd0zU0GnitbyLZkScMU8OMy7TsJBJxzVgjVsQhDg9qp0Z.ikyxvG",
-      "name": "krat",
-      "id": 3
-    },
-    {
-      "email": "alex@test.com",
-      "password": "$2a$10$eMC5D1ILTO7cj1M9ce7rZeU4jwm6TjJPEoTt.gA6AFs0YEzBT4972",
-      "name": "Alex",
-      "id": 4
-    }
-  ]
+  "users": []
 }
